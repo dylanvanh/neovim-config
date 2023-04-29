@@ -1,2 +1,1 @@
 require("obonob")
-print("hello")

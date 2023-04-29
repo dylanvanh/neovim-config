@@ -1,2 +1,2 @@
 require("obonob.remap")
-print("hello from obonob")
+require("obonob.set")
