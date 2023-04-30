@@ -14,8 +14,8 @@ return require('packer').startup(function(use)
 	}
 
 
-	use('morhetz/gruvbox')
-	vim.cmd('colorscheme gruvbox')
+	use('joshdick/onedark.vim')
+	vim.cmd('colorscheme onedark')
 
 	use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
 	use('nvim-treesitter/playground')
